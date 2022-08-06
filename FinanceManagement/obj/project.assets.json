@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adityasj/Projects/FinanceManagement/FinanceManagement/FinanceManagement.csproj",
+      "projectUniqueName": "/Users/adityasj/Documents/Repos/FinanceManagement/FinanceManagement/FinanceManagement.csproj",
       "projectName": "FinanceManagement",
-      "projectPath": "/Users/adityasj/Projects/FinanceManagement/FinanceManagement/FinanceManagement.csproj",
+      "projectPath": "/Users/adityasj/Documents/Repos/FinanceManagement/FinanceManagement/FinanceManagement.csproj",
       "packagesPath": "/Users/adityasj/.nuget/packages/",
-      "outputPath": "/Users/adityasj/Projects/FinanceManagement/FinanceManagement/obj/",
+      "outputPath": "/Users/adityasj/Documents/Repos/FinanceManagement/FinanceManagement/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adityasj/.nuget/NuGet/NuGet.Config"
