@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9F910ABA-D453-4432-8657-0B595F99A27D}|FinanceManagement">
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DbContext.cs">
+    <Files>
+      <File FileName="FinanceManagement/Program.cs" Line="1" Column="1" />
+      <File FileName="FinanceManagement/Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="FinanceManagement/appsettings.json" Line="1" Column="1" />
+      <File FileName="FinanceManagement/appsettings.Development.json" Line="10" Column="1" />
+      <File FileName="FinanceManagement/Properties/launchSettings.json" Line="26" Column="48" />
+      <File FileName="DbContext.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinanceManagement" expanded="True">
+            <Node name="DataAccessLayer" expanded="True" />
+            <Node name="Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebAPILayer PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.BusinessLogicLayer FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Models FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
