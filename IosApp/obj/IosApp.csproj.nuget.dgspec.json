@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/IosApp.csproj": {}
+  },
+  "projects": {
+    "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/IosApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/IosApp.csproj",
+        "projectName": "IosApp",
+        "projectPath": "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/IosApp.csproj",
+        "packagesPath": "/Users/adityasj/.nuget/packages/",
+        "outputPath": "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/adityasj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0XC+hr2oEGh5UTHhT9eKBFZbSVuaxxHHfOOLc/R3LZsjKRixp7hoSuCNXMUq6Cra4/zybzFUHK/7/ne33AWjA==",
+  "success": true,
+  "projectFilePath": "/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/IosApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/adityasj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/adityasj/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

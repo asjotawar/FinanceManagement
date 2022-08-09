@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adityasj/Documents/Repos/FinanceManagement/AndroidApp/AndroidApp.csproj": {}
+  },
+  "projects": {
+    "/Users/adityasj/Documents/Repos/FinanceManagement/AndroidApp/AndroidApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adityasj/Documents/Repos/FinanceManagement/AndroidApp/AndroidApp.csproj",
+        "projectName": "AndroidApp",
+        "projectPath": "/Users/adityasj/Documents/Repos/FinanceManagement/AndroidApp/AndroidApp.csproj",
+        "packagesPath": "/Users/adityasj/.nuget/packages/",
+        "outputPath": "/Users/adityasj/Documents/Repos/FinanceManagement/AndroidApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/adityasj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

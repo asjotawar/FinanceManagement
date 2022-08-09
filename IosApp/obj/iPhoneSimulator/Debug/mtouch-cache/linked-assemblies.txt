@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/IosApp.exe
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Mono.Security.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Xml.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Numerics.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/bin/iPhoneSimulator/Debug/IosApp.app:/Users/adityasj/Documents/Repos/FinanceManagement/IosApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll
